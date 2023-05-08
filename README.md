@@ -23,7 +23,7 @@ En Dreamin Chu Chu puedes hacer una compra de esta forma
 7. Con esto se genera una id de orden
 
 ## Instalacion
-Primero se debe tener git instalado en el sistema, para ello puedes dirigirte a:
+Primero se debe tener git instalado en el sistema, para ello puedes dirigirte a
 https://git-scm.com/downloads
 
 Luego se debe instalar el proyecto e iniciarlo de esta forma:
