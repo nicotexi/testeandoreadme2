@@ -1,5 +1,9 @@
 # Ecommerce Dreamin Chu Chu
 
+En este proyecto se dessarrolló un ecommerce con la capacidad de crear un carrito con los articulos deseados y enviar un formulario con los datos necesarios para crear una orden de compra, la cual se enviara a una base de datos.
+
+
+## Tecnologias Utilizadas
 Este Ecommerce fue creado usando varias herramientas
 - HTML
 - CSS
@@ -16,4 +20,12 @@ En Dreamin Chu Chu puedes hacer una compra de esta forma
 4 - Repetir esto con todos los articulos que desee
 5 - Clickear el icono del carrito arriba a la derecha
 6 - Escribir tus datos en el formulario y enviarlos
-7 - Con esto se te genera una id de orden
+7 - Con esto se genera una id de orden
+
+## Instalacion
+Primero se debe tener git instalado en el sistema, para ello puedes dirigirte a:
+https://git-scm.com/downloads
+
+Luego debes hacer una copia de este proyecto utilizando el comando 
+`Git clone`
+seguido de la url del proyecto
