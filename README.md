@@ -14,18 +14,22 @@ Con una base de datos simulada desde firebase
 
 ## Funcionalidad
 En Dreamin Chu Chu puedes hacer una compra de esta forma
-1 - Seleccionar el objeto se desea comprar
-2 - Elegir cuantas unidades de ese objeto se quiere comprar
-3 - Añadir el/los articulos al carrito
-4 - Repetir esto con todos los articulos que desee
-5 - Clickear el icono del carrito arriba a la derecha
-6 - Escribir tus datos en el formulario y enviarlos
-7 - Con esto se genera una id de orden
+1. Seleccionar el objeto se desea comprar
+2. Elegir cuantas unidades de ese objeto se quiere comprar
+3. Añadir el/los articulos al carrito
+4. Repetir esto con todos los articulos que desee
+5. Clickear el icono del carrito arriba a la derecha
+6. Escribir tus datos en el formulario y enviarlos
+7. Con esto se genera una id de orden
 
 ## Instalacion
 Primero se debe tener git instalado en el sistema, para ello puedes dirigirte a:
 https://git-scm.com/downloads
 
-Luego debes hacer una copia de este proyecto utilizando el comando 
-`Git clone`
-seguido de la url del proyecto
+Luego se debe instalar el proyecto e iniciarlo de esta forma:
+```
+$ git clone https://example.com
+$ cd ../path/to/the/file
+$ npm install
+$ npm start
+```
